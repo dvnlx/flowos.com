@@ -1,5 +1,3 @@
-# Comming Soon 
+# FlowOS Website
 
-
-Join our server:
-https://discord.gg/MpXcTb5JQx
+FlowOS

@@ -1,9 +1,23 @@
 <!-- CSS Code -->
 <style type="text/css" scoped>
-.GeneratedText {
-font-family:'font-family: 'Albert Sans', sans-serif;;color:#000000;padding:1.5em;
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 0 0 0.5em #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    font-size: 1.2em;
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 </style>
 
 <!-- HTML Code -->
-<div class="GeneratedText">Coming Soon</div>
+<body>
+    <h1>FlowOS</h1>
+    <p>Its not a concept. its a Workflow.</p>
+    <hr>
+    <h1>COMING SOON</h1>
+</body>
